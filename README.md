@@ -1,6 +1,6 @@
 # Timer component for Framer
 
-**Timer allows content to be displayed on a page over a given period : between a start and end date.**
+**Timer allows you to delay the display of content in Framer. It allows you to define a date and time for the start and end of the display.**
 
 ## Feature list
 
