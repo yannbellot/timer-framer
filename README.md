@@ -4,6 +4,6 @@
 
 ## Feature list
 
-* Choose children frame
+* Choose children Frame
 * Choose local time zone or define time zone (GMT)
-* Define dates and times to display frame
+* Define the start and end dates and times of the Frame display
