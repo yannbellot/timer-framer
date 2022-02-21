@@ -8,4 +8,4 @@ Timer allows you to manage the display of content in Framer according to time da
 
 * Choose children frame
 * Choose local time zone or define time zone (GMT)
-* Define date and time to display frame
+* Define dates and times to display frame
