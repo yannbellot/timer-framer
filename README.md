@@ -1,6 +1,6 @@
 # Timer component for Framer
 
-**Display content over a defined period of time.**
+**Display content over a defined period of time in [Framer](http://framer.com).**
 
 ## Feature list
 
